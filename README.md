@@ -1,5 +1,4 @@
-# Signal Generator
--------------------
+# Signal Generator (2018)
 Java application generating different signals and showing their graphs using JFreeChart library.
 
 -------------------
